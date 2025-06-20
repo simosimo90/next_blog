@@ -1,5 +1,5 @@
 # Terraform
-infra-terraform-files/.terraform/
+infra-terraform-files/.terraform/*
 *.tfplan
 *.tfstate
 *.tfstate.backup
