@@ -6,6 +6,8 @@ infra-terraform-files/.terraform/
 .terraform.lock.hcl # For older Terraform versions, this might not be ignored by default
 .terraform.tfstate.lock.info
 .terraform.tfstate
+infra-terraform-files/state.tf
+infra-terraform-files/.terraform.lock.hcl
 crash.log
 override.tf
 override.tf.json
